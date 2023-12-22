@@ -1,5 +1,5 @@
 
-FROM amazoncorretto:17-alpine
+FROM amazoncorretto:17
 ARG JAR_FILE=*-0.0.1-SNAPSHOT.jar
 
 RUN mkdir -p /app
