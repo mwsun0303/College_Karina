@@ -1,0 +1,6 @@
+2023-12-23 01:52:52 404 GET / HTTP/1.1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 - 0:0:0:0:0:0:0:1 275 62290
+2023-12-23 01:52:52 404 GET /favicon.ico HTTP/1.1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 http://localhost/ 0:0:0:0:0:0:0:1 111 31139
+2023-12-23 01:53:09 404 GET /boot/ HTTP/1.1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 - 0:0:0:0:0:0:0:1 275 9620
+2023-12-23 01:56:52 200 GET / HTTP/1.1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 - 0:0:0:0:0:0:0:1 1194 477836
+2023-12-23 01:56:52 200 GET /dbQuiz.js HTTP/1.1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 http://localhost:8085/ 0:0:0:0:0:0:0:1 1258 5617
+2023-12-23 01:56:52 404 GET /favicon.ico HTTP/1.1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 http://localhost:8085/ 0:0:0:0:0:0:0:1 111 22446
