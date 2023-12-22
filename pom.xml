@@ -96,7 +96,7 @@
 				<configuration>
 					<to>
 						<image>docker.io/kys8502/kube-boot</image>
-						<tags>latest</tags>
+						<tags>test1</tags>
 					</to>
 				</configuration>
 			</plugin>

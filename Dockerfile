@@ -1,10 +1,14 @@
+FROM eclipse-temurin:17-jdk-jammy
 
-FROM amazoncorretto:17
-ARG JAR_FILE=*-0.0.1-SNAPSHOT.jar
-
-RUN mkdir -p /app
 WORKDIR /app
+COPY .mvn/wrapper/maven-wrapper.jar .mvn/wrapper/maven-wrapper.jar
+COPY .mvn/wrapper/maven-wrapper.properties .mvn/wrapper/maven-wrapper.properties
+COPY mvnw ./
+COPY mvnw.cmd ./
+COPY pom.xml ./
+COPY work ./work
+RUN ./mvnw dependency:resolve
 
-COPY target/${JAR_FILE} /app/app.jar
-ENTRYPOINT ["java","-jar","/app/app.jar"]
+COPY src ./src
 
+CMD ["./mvnw", "spring-boot:run"]

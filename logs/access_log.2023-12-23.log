@@ -10,3 +10,9 @@
 2023-12-23 02:34:56 404 GET /login HTTP/1.1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 - 0:0:0:0:0:0:0:1 275 9219
 2023-12-23 02:37:23 200 GET /login HTTP/1.1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 - 0:0:0:0:0:0:0:1 1612 453207
 2023-12-23 02:37:23 200 GET /dbQuiz.js HTTP/1.1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 http://localhost:8085/login 0:0:0:0:0:0:0:1 1258 5270
+2023-12-23 03:21:53 200 GET / HTTP/1.1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15 - 0:0:0:0:0:0:0:1 1194 472229
+2023-12-23 03:21:53 200 GET /dbQuiz.js HTTP/1.1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15 http://localhost:8085/ 0:0:0:0:0:0:0:1 1258 4950
+2023-12-23 03:21:53 404 GET /apple-touch-icon-precomposed.png HTTP/1.1 Safari/19617.1.17.11.12 CFNetwork/1490.0.4 Darwin/23.2.0 - 0:0:0:0:0:0:0:1 132 28468
+2023-12-23 03:21:53 404 GET /favicon.ico HTTP/1.1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15 http://localhost:8085/ 0:0:0:0:0:0:0:1 111 30633
+2023-12-23 03:21:53 404 GET /apple-touch-icon.png HTTP/1.1 Safari/19617.1.17.11.12 CFNetwork/1490.0.4 Darwin/23.2.0 - 0:0:0:0:0:0:0:1 120 2119
+2023-12-23 03:21:57 200 GET /;jsessionid=DF46FCB9113D16DEAA600258DA0FFD7Findex HTTP/1.1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15 http://localhost:8085/ 0:0:0:0:0:0:0:1 974 7073
