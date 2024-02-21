@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  build-and-deploy:
+  build:
     runs-on: ubuntu-latest
 
     env:
@@ -72,7 +72,7 @@ jobs:
       sha: ${{ github.sha }}                                         # GitHub Hash 출력
 
   deploy:                                                            # Deploy Job 영역 시작
-    needs: build-and-deploy                                          # Build Job 완료 후 Deploy Job 수행
+    needs: build                                                     # Build Job 완료 후 Deploy Job 수행
     name: Helm Chart Update                                          # 이름 지정
     runs-on: ubuntu-latest                                           # Runner 지정 ( Job-Container )
     env:                                                             # Deploy Job 환경변수 정의
