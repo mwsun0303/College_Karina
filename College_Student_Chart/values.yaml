@@ -1,0 +1,17 @@
+#replicas: 2
+label: student
+image:
+  tag: ""
+  repository: "083623472726.dkr.ecr.ap-northeast-2.amazonaws.com/college"
+  pullPolicy: IfNotPresent
+  limits:
+    memory: "500Mi"
+    cpu: "500m"
+  imagePullSecrets: []
+  nameOverride: ""
+  fullnameOverride: ""
+service:
+  name: "student-svc"
+  type: "NodePort"
+  port: 80
+  targetPort: 80
