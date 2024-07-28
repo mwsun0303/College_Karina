@@ -2,9 +2,22 @@
 
 ---
 
+## 🖇️ Project Navigator Link.
+
+- [🔗 프로젝트 개요](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21)
+- [🔗 프로젝트 환경](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21)
+- [🔗 Architecture](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21)
+- [🔗 DataBase](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21)
+- [🔗 CI/CD](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21)
+- [🔗 Kubernetes](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21)
+- [🔗 improvement, Monitoring](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21)
+- [🔗](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21) 프로젝트 후기
+
+---
+
 # 💡 프로젝트 개요.
 
-![Untitled](%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Untitled.png)
+![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled.png)
 
 ---
 
@@ -24,9 +37,9 @@
 
 ### 🔗 Terraform Code
 
-[main.tf](%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/main.tf)
+[main.tf](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/main.tf)
 
-![Untitled](%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Untitled%201.png)
+![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%201.png)
 
 - 👥 **인원 : 4인**
 - **📅  프로젝트 기간 : 2023.12.27 ~ 2024.02.06 (약 6주)**
@@ -49,73 +62,73 @@
 ## Language.
 
 <aside>
-<img src="%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/JAVA.jpg" alt="%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/JAVA.jpg" width="40px" /> **Java**
+<img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/JAVA.jpg" alt="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/JAVA.jpg" width="40px" /> **Java**
 
 </aside>
 
 <aside>
-<img src="%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/STS.jpg" alt="%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/STS.jpg" width="40px" /> **Spring (Maven)**
+<img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/STS.jpg" alt="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/STS.jpg" width="40px" /> **Spring (Maven)**
 
 </aside>
 
 <aside>
-<img src="%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/JS.png" alt="%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/JS.png" width="40px" /> **Java Script**
+<img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/JS.png" alt="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/JS.png" width="40px" /> **Java Script**
 
 </aside>
 
 <aside>
-<img src="%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Terraform.jpg" alt="%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Terraform.jpg" width="40px" /> **Terraform**
+<img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Terraform.jpg" alt="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Terraform.jpg" width="40px" /> **Terraform**
 
 </aside>
 
 <aside>
-<img src="%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/VSCode.jpg" alt="%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/VSCode.jpg" width="40px" /> **VS Code**
+<img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/VSCode.jpg" alt="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/VSCode.jpg" width="40px" /> **VS Code**
 
 </aside>
 
 ## DataBase.
 
 <aside>
-<img src="%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/MariaDB.jpg" alt="%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/MariaDB.jpg" width="40px" /> MariaDB
+<img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/MariaDB.jpg" alt="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/MariaDB.jpg" width="40px" /> MariaDB
 
 </aside>
 
 ## Tech.
 
 <aside>
-<img src="%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Git_Action.png" alt="%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Git_Action.png" width="40px" /> GitHub Action
+<img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Git_Action.png" alt="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Git_Action.png" width="40px" /> GitHub Action
 
 </aside>
 
 <aside>
-<img src="%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/%25EC%25BF%25A0%25EB%25B2%2584%25EB%2584%25A4%25ED%258B%25B0%25EC%258A%25A4.png" alt="%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/%25EC%25BF%25A0%25EB%25B2%2584%25EB%2584%25A4%25ED%258B%25B0%25EC%258A%25A4.png" width="40px" /> Kubernetes
+<img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/%25EC%25BF%25A0%25EB%25B2%2584%25EB%2584%25A4%25ED%258B%25B0%25EC%258A%25A4.png" alt="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/%25EC%25BF%25A0%25EB%25B2%2584%25EB%2584%25A4%25ED%258B%25B0%25EC%258A%25A4.png" width="40px" /> Kubernetes
 
 </aside>
 
 <aside>
-<img src="%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Hlem.png" alt="%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Hlem.png" width="40px" /> Helm
+<img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Hlem.png" alt="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Hlem.png" width="40px" /> Helm
 
 </aside>
 
 ## Tool.
 
 <aside>
-<img src="%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/AWS.jpg" alt="%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/AWS.jpg" width="40px" /> AWS Cloud
+<img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/AWS.jpg" alt="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/AWS.jpg" width="40px" /> AWS Cloud
 
 </aside>
 
 <aside>
-<img src="%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Argo_CD.png" alt="%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Argo_CD.png" width="40px" /> ArgoCD
+<img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Argo_CD.png" alt="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Argo_CD.png" width="40px" /> ArgoCD
 
 </aside>
 
 <aside>
-<img src="%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Prometheus.png" alt="%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Prometheus.png" width="40px" /> **Prometheus**
+<img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Prometheus.png" alt="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Prometheus.png" width="40px" /> **Prometheus**
 
 </aside>
 
 <aside>
-<img src="%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Grafana.jfif" alt="%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Grafana.jfif" width="40px" /> Grafana
+<img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Grafana.jfif" alt="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Grafana.jfif" width="40px" /> Grafana
 
 </aside>
 
@@ -125,7 +138,7 @@
 
 # 💡Architecture.
 
-![EKS Architecture.drawio.png](%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/EKS_Architecture.drawio.png)
+![EKS Architecture.drawio.png](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/EKS_Architecture.drawio.png)
 
 | No | 구분 | 사양 | 사용목적 |
 | --- | --- | --- | --- |
@@ -146,7 +159,7 @@
 
 # 💡 Database.
 
-![Untitled](%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Untitled%202.png)
+![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%202.png)
 
 ### 1). Dark Data 방지 목적 DataBase Table 설계
 
@@ -164,7 +177,7 @@
 
 ---
 
-![Untitled](%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Untitled%203.png)
+![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%203.png)
 
 ### 2). 안정적인 고가용성 목적의 DataBase 구축
 
@@ -185,7 +198,7 @@
 
 ### 🔎 CI/CD의 경우 Git Server + Jenkins CI에서 GitHub Action CI를 사용하기까지 과정과 이유를 담고 있습니다.
 
-![Untitled](%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Untitled%204.png)
+![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%204.png)
 
 ---
 
@@ -209,7 +222,7 @@
         - Build 진행을 위해선 Jenkins가 Git Server에 존재하는 **소스 코드 사용 사용자 권한이 필요**
         - Jenkins의 공개키를 Git Server의 authorized_keys 등록을 통해 인증
             
-            ![Untitled](%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Untitled%205.png)
+            ![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%205.png)
             
 
 ---
@@ -220,7 +233,7 @@
 
 ---
 
-![Untitled](%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Untitled%206.png)
+![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%206.png)
 
 ### 2). Git Hub Action을 사용한 이유
 
@@ -251,7 +264,7 @@
 
 ---
 
-![Untitled](%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Untitled%207.png)
+![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%207.png)
 
 1. **UI 지원을 통한 가시성 증가**
     - 기존 Git Server는 소스 코드를 압축 파일 형태인 Pack 파일로 저장 → Pull을 받아보기 전까지 Push 상태 확인 불가
@@ -261,7 +274,7 @@
 
 ---
 
-![Untitled](%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Untitled%208.png)
+![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%208.png)
 
 ### 3). Git Hub Action 사용
 
@@ -279,7 +292,7 @@
 
 ---
 
-![Untitled](%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Untitled%209.png)
+![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%209.png)
 
 1. **보안을 위한 Git Hub Secrets 사용** 
     - **Secrets 변수를 활용해 인증에 필요한 Access Key를 암호화 + 외부 노출 방지**
@@ -293,7 +306,7 @@
 
 ---
 
-![Untitled](%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Untitled%2010.png)
+![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%2010.png)
 
 1. **Build Image Version 관리 목적 Action Script 작성**
     - Image Build
@@ -315,7 +328,7 @@
 
 ---
 
-![Untitled](%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Untitled%2011.png)
+![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%2011.png)
 
 ### 4). ArgoCD
 
@@ -328,13 +341,13 @@
     - Deployment strategy를 Rolling Update로 설정
         - **무중단 배포가 가능하게 설정**
             
-            ![Untitled](%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Untitled%2012.png)
+            ![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%2012.png)
             
     
 
 ---
 
-![Untitled](%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Untitled%2013.png)
+![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%2013.png)
 
 ### 2. 배포 구성
 
@@ -360,7 +373,7 @@
 
 # 💡 Kubernetes.
 
-![Untitled](%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Untitled%2014.png)
+![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%2014.png)
 
 ### 1). AWS EKS를 활용한 Kubernetes 환경 구축
 
@@ -373,7 +386,7 @@
 
 ---
 
-![Untitled](%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Untitled%2015.png)
+![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%2015.png)
 
 1. **IRSA** 
     - **IAM Roles for Service Accounts**
@@ -386,11 +399,11 @@
 
 ---
 
-![Untitled](%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Untitled%2016.png)
+![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%2016.png)
 
 ---
 
-![Untitled](%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Untitled%2017.png)
+![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%2017.png)
 
 1. **Ingress** 
     - Ingress 구현
@@ -417,7 +430,7 @@
 
 ### 🔎 프로젝트 종료 후 개인적으로 개선한 부분입니다.
 
-![Untitled](%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Untitled%2018.png)
+![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%2018.png)
 
 ### 1). Kubernetes를 활용한 모니터링 도구의 활용도 개선
 
@@ -426,7 +439,7 @@
 
 ---
 
-![Untitled](%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Untitled%2019.png)
+![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%2019.png)
 
 ### 2). Kubernetes, EFS를 활용한 Prometheus, Grafana 구성
 
@@ -452,11 +465,11 @@
 
 ---
 
-![Untitled](%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Untitled%2020.png)
+![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%2020.png)
 
 ---
 
-![Untitled](%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Untitled%2021.png)
+![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%2021.png)
 
 1. **EFS 구현**
     - Pod의 Master Node (EC2 WorkerNode)가 EFS를 접근해야 하기 때문에 동일한 Subnet, 보안 그룹 설정 필요
@@ -474,7 +487,7 @@
 
 ---
 
-![Untitled](%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Untitled%2022.png)
+![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%2022.png)
 
 1. **Prometheus, Grafana 구현**
     - 별도 namespace 생성
@@ -482,7 +495,7 @@
 
 ---
 
-![Untitled](%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Untitled%2023.png)
+![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%2023.png)
 
 1. **PV, PVC 설정**
 - **PV** (Persistent Volume)
@@ -493,7 +506,7 @@
 
 ---
 
-![Untitled](%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Untitled%2024.png)
+![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%2024.png)
 
 1. **Prometheus Service 노출, Grafana 연동**
 - Prometheus
@@ -507,7 +520,7 @@
 
 ---
 
-![Untitled](%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Untitled%2025.png)
+![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%2025.png)
 
 1. **Grafana를 활용한 시각화**
     - Prometheus가 실시간으로 수집한 지표를 Template을 활용하여 시각화 자료로 제공
