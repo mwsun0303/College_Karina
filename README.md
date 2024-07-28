@@ -1,20 +1,5 @@
 # 👥 Team Project 카리나 대학교
 
----
-
-## 🖇️ Project Navigator Link.
-
-- [🔗 프로젝트 개요](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21)
-- [🔗 프로젝트 환경](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21)
-- [🔗 Architecture](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21)
-- [🔗 DataBase](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21)
-- [🔗 CI/CD](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21)
-- [🔗 Kubernetes](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21)
-- [🔗 improvement, Monitoring](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21)
-- [🔗](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21) 프로젝트 후기
-
----
-
 # 💡 프로젝트 개요.
 
 ![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled.png)
@@ -53,7 +38,7 @@
     - CI/CD 구축
     - Kubernetes 환경 구성
 
-[**⬆️ To The Project Navigator.**](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21)
+
 
 ---
 
@@ -132,7 +117,7 @@
 
 </aside>
 
-[**⬆️ To The Project Navigator.**](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21)
+
 
 ---
 
@@ -153,7 +138,7 @@
 | 9 | Worker Node Auto Scaling | Min 2EA ~ MAX 4EA | Container 구동하는 Worker Node 수량 조절을 통한 고가용성 유지 |
 | 10 | MariaDB | AWS RDS | AWS 완전 관리형 고가용성 DataBase |
 
-[**⬆️ To The Project Navigator.**](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21)
+
 
 ---
 
@@ -190,7 +175,7 @@
 
 - **비용보다 가용성과 안정성에 초점을 둔 구축 진행**
 
-[**⬆️ To The Project Navigator.**](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21)
+
 
 ---
 
@@ -367,7 +352,7 @@
     - 수강 관리 Service의 hpa의 범위를 넓게 설정
     
 
-[**⬆️ To The Project Navigator.**](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21)
+
 
 ---
 
@@ -422,7 +407,7 @@
             - /sugang/~ 경로
         
 
-[**⬆️ To The Project Navigator.**](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21)
+
 
 ---
 
@@ -525,7 +510,7 @@
 1. **Grafana를 활용한 시각화**
     - Prometheus가 실시간으로 수집한 지표를 Template을 활용하여 시각화 자료로 제공
 
-[**⬆️ To The Project Navigator.**](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21)
+
 
 ---
 
