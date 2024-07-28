@@ -2,7 +2,7 @@
 
 # 💡 프로젝트 개요.
 <p align="left">
-  <img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%201.png" width="300" alt="Untitled">
+  <img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%201.png" width="250" alt="Untitled">
 </p>
 
 ![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled.png)
