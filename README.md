@@ -15,7 +15,7 @@
     - **College_Subject_Code** : 수강과목 관리, 수강신청 구현 코드
     - **College_Student_Chart** : 학생 관리 코드 Argo CD 배포 Helm Chart 
     - **College_Subject_Chart** : 수강과목 관리 코드 코드 Argo CD 배포 Helm Chart
-
+    - **College_Terraform** : AWS Cloud 구축 Terraform 코드
 ---
 - 👥 **인원 : 4인**
 - **📅  프로젝트 기간 : 2023.12.27 ~ 2024.02.06 (약 6주)**
