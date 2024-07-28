@@ -2,19 +2,6 @@
 
 ---
 
-## 🖇️ Project Navigator Link.
-
-- [🔗 프로젝트 개요](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21)
-- [🔗 프로젝트 환경](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21)
-- [🔗 Architecture](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21)
-- [🔗 DataBase](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21)
-- [🔗 CI/CD](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21)
-- [🔗 Kubernetes](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21)
-- [🔗 improvement, Monitoring](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21)
-- [🔗](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21) 프로젝트 후기
-
----
-
 # 💡 프로젝트 개요.
 
 ![Untitled](%F0%9F%91%A5%20Team%20Project%20%E1%84%8F%E1%85%A1%E1%84%85%E1%85%B5%E1%84%82%E1%85%A1%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%207556d474a8614c518682b3aea8ca6a56/Untitled.png)
