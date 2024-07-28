@@ -11,18 +11,12 @@
 [mwsun0303 - Repositories](https://github.com/mwsun0303?tab=repositories)
 
 - 기능 별 트래픽 대응을 목적으로 MSA 형태로 분리된 프로젝트 구축
-    - **Student_Project** : 학생 관리, 관리자 기능 구현
-        - Student_Code_Repository : 소스 코드
-        - Student_Chart_Repository : ArgoCD_Helm Chart
-    - **Subject_Project** : 수강과목 관리, 수강신청 구현
-        - Subject_Code_Repository : 소스 코드
-        - Subject_Chart_Repository : ArgoCD_Helm Chart
+    - **College_Student_Code** : 학생 관리, 관리자 기능 구현 코드
+    - **College_Subject_Code** : 수강과목 관리, 수강신청 구현 코드
+    - **College_Student_Chart** : 학생 관리 코드 Argo CD 배포 Helm Chart 
+    - **College_Subject_Chart** : 수강과목 관리 코드 코드 Argo CD 배포 Helm Chart
 
 ---
-
-### 🔗 Terraform Code
-
-[main.tf](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/main.tf)
 
 ![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%201.png)
 
