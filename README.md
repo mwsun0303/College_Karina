@@ -37,7 +37,7 @@
 
 ## Language.
 
-<table style="border: none;">
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
     <td align="center" style="border: none;">
       <img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/JAVA.jpg" alt="Java" width="40px" />
@@ -64,7 +64,7 @@
 
 ## DataBase.
 
-<table style="border: none;">
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
     <td align="center" style="border: none;">
       <img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/MariaDB.jpg" alt="MariaDB" width="40px" />
@@ -75,7 +75,7 @@
 
 ## Tech.
 
-<table style="border: none;">
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
     <td align="center" style="border: none;">
       <img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Git_Action.png" alt="GitHub Action" width="40px" />
@@ -89,20 +89,12 @@
       <img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Hlem.png" alt="Helm" width="40px" />
       <br />Helm
     </td>
-    <td align="center" style="border: none;">
-      <img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/VSCode.jpg" alt="VS Code" width="40px" />
-      <br />VS Code
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Prometheus.png" alt="Prometheus" width="40px" />
-      <br />Prometheus
-    </td>
   </tr>
 </table>
 
 ## Tool.
 
-<table style="border: none;">
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
     <td align="center" style="border: none;">
       <img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/AWS.jpg" alt="AWS Cloud" width="40px" />
@@ -120,13 +112,8 @@
       <img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Grafana.jfif" alt="Grafana" width="40px" />
       <br />Grafana
     </td>
-    <td align="center" style="border: none;">
-      <img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Hlem.png" alt="Helm" width="40px" />
-      <br />Helm
-    </td>
   </tr>
 </table>
-
 
 ---
 
