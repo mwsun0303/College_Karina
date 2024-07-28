@@ -169,7 +169,7 @@ provider "kubernetes" {
 }
 # 5.Kubernetes Account와 연결할 AWS 계정
 data "aws_iam_user" "EKS_Admin_ID" {
-  user_name = "Sun_user"
+  user_name = "Sun_Dev"
 }
 
 # 7.보안그룹
