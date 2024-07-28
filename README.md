@@ -39,17 +39,21 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" style="border:none;">
       <img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/JAVA.jpg" alt="Java" width="40px" />
-      <br />Java
+      <br /><strong>Java</strong>
     </td>
-    <td align="center">
+    <td align="center" style="border:none;">
       <img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/STS.jpg" alt="Spring" width="40px" />
-      <br />Spring (Maven)
+      <br /><strong>Spring (Maven)</strong>
     </td>
-    <td align="center">
+    <td align="center" style="border:none;">
       <img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/JS.png" alt="JavaScript" width="40px" />
-      <br />JavaScript
+      <br /><strong>JavaScript</strong>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Terraform.jpg" alt="Terraform" width="40px" />
+      <br /><strong>Terraform</strong>
     </td>
   </tr>
 </table>
@@ -58,7 +62,7 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" style="border:none;">
       <img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/MariaDB.jpg" alt="MariaDB" width="40px" />
       <br />MariaDB
     </td>
@@ -69,17 +73,21 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" style="border:none;">
       <img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Git_Action.png" alt="GitHub Action" width="40px" />
       <br />GitHub Action
     </td>
-    <td align="center">
+    <td align="center" style="border:none;">
       <img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4.png" alt="Kubernetes" width="40px" />
       <br />Kubernetes
     </td>
-    <td align="center">
+    <td align="center" style="border:none;">
       <img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Hlem.png" alt="Helm" width="40px" />
       <br />Helm
+    </td>
+    <td align="center" style="border:none;">
+      <img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/VSCode.jpg" alt="VS Code" width="40px" />
+      <br />VS Code
     </td>
   </tr>
 </table>
@@ -88,28 +96,24 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" style="border:none;">
       <img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/AWS.jpg" alt="AWS Cloud" width="40px" />
       <br />AWS Cloud
     </td>
-    <td align="center">
+    <td align="center" style="border:none;">
       <img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Argo_CD.png" alt="ArgoCD" width="40px" />
       <br />ArgoCD
     </td>
-    <td align="center">
+    <td align="center" style="border:none;">
       <img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Prometheus.png" alt="Prometheus" width="40px" />
       <br />Prometheus
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td align="center" style="border:none;">
       <img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Grafana.jfif" alt="Grafana" width="40px" />
       <br />Grafana
     </td>
   </tr>
 </table>
-
-
 
 
 ---
