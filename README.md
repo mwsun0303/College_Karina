@@ -1,7 +1,7 @@
 # 👥 Team Project 카리나 대학교
 
 # 💡 프로젝트 개요.
-<img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%201.png" alt="Untitled" width="300"/>
+![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%201.png) 
 ![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled.png)
 
 ---
