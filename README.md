@@ -82,7 +82,7 @@
       <br />GitHub Action
     </td>
     <td align="center" style="border: 1px solid white;">
-      <img src="https://mwsun0303.s3.ap-northeast2.amazonaws.com/%25EC%25BF%25A0%25EB%25B2%2584%25EB%2584%25A4%25ED%258B%25B0%25EC%258A%25A4.png" alt="Kubernetes" width="40px" />
+      <img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/%25EC%25BF%25A0%25EB%25B2%2584%25EB%2584%25A4%25ED%258B%25B0%25EC%258A%25A4.png" alt="Kubernetes" width="40px" />
       <br />Kubernetes
     </td>
     <td align="center" style="border: 1px solid white;">
