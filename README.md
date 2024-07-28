@@ -1,7 +1,7 @@
 # 👥 Team Project 카리나 대학교
 
 # 💡 프로젝트 개요.
-
+![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%201.png)
 ![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled.png)
 
 ---
@@ -17,9 +17,6 @@
     - **College_Subject_Chart** : 수강과목 관리 코드 코드 Argo CD 배포 Helm Chart
 
 ---
-
-![Untitled](https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Untitled%201.png)
-
 - 👥 **인원 : 4인**
 - **📅  프로젝트 기간 : 2023.12.27 ~ 2024.02.06 (약 6주)**
 - **🔎  프로젝트 목적**
