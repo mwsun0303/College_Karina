@@ -542,4 +542,4 @@
 
 ---
 
-©by.bomd 2024  [⬆️ To The Top](https://www.notion.so/Team-Project-7556d474a8614c518682b3aea8ca6a56?pvs=21)
+©by.bomd 2024
