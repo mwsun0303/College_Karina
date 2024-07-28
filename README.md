@@ -89,10 +89,6 @@
       <img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Hlem.png" alt="Helm" width="40px" />
       <br />Helm
     </td>
-    <td align="center" style="border: 1px solid white;">
-      <img src="https://mwsun0303.s3.ap-northeast-2.amazonaws.com/Prometheus.png" alt="Prometheus" width="40px" />
-      <br />Prometheus
-    </td>
   </tr>
 </table>
 
