@@ -11,7 +11,7 @@
 
 ### 🔗 **GitHub**
 
-[mwsun0303 - Repositories](https://github.com/mwsun0303?tab=repositories)
+[mwsun0303 - Repositories]([https://github.com/mwsun0303?tab=repositories](https://github.com/mwsun0303/College_Karina.git))
 
 - 기능 별 트래픽 대응을 목적으로 MSA 형태로 분리된 프로젝트 구축
     - **College_Student_Code** : 학생 관리, 관리자 기능 구현 코드
